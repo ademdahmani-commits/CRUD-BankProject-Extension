@@ -19,9 +19,9 @@
 <h3>In Manage Users u Have : </h3>
 <ul>
   <li>[1]List User</li> 
- <li>[2]Add New U</li> 
- <li>[3]Delete Us</li> 
- <li>[4]Update Us</li>
+ <li>[2]Add New User</li> 
+ <li>[3]Delete User</li> 
+ <li>[4]Update User</li>
  <li>[5]Find User</li>
  <li>[6]Main Menu</li>
 </ul>
